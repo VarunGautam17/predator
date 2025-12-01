@@ -1,8 +1,4 @@
-# predator
-An enterprise-grade multi-agent system that automates lead research, scoring and outreach with human-in-the-loop safety.
 # Predator: The Autonomous Sales Orchestrator 🦅
-
-**Winner of the "Enterprise Agents" Track Strategy**
 
 ## 📖 Overview
 Predator is an enterprise-grade AI agent built with the Google ADK. It automates the "research-to-outreach" sales loop by using a multi-agent architecture to score leads, check competitor pricing (via A2A), and draft emails that require human approval (Human-in-the-Loop).
